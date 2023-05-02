@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusApi.DataAccessLa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusApi.BusinessLayer", "AkademiPlusApi.BusinessLayer\AkademiPlusApi.BusinessLayer.csproj", "{3FA70E13-CD4B-4630-8000-3270A04B1973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusApi.ConsumeLayer", "AkademiPlusApi.ConsumeLayer\AkademiPlusApi.ConsumeLayer.csproj", "{A921EC99-983E-42E5-8C4B-8033E5FF0F80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusApi.ConsumeLayer", "AkademiPlusApi.ConsumeLayer\AkademiPlusApi.ConsumeLayer.csproj", "{A921EC99-983E-42E5-8C4B-8033E5FF0F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusApiProject.RapidApi", "AkademiPlusApiProject.RapidApi\AkademiPlusApiProject.RapidApi.csproj", "{D3AFA5CA-D25F-4D29-B3EF-E6A7CB883FC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A921EC99-983E-42E5-8C4B-8033E5FF0F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A921EC99-983E-42E5-8C4B-8033E5FF0F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A921EC99-983E-42E5-8C4B-8033E5FF0F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AFA5CA-D25F-4D29-B3EF-E6A7CB883FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AFA5CA-D25F-4D29-B3EF-E6A7CB883FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AFA5CA-D25F-4D29-B3EF-E6A7CB883FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AFA5CA-D25F-4D29-B3EF-E6A7CB883FC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
